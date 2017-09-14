@@ -1,0 +1,24 @@
+body
+{
+  margin: 30px 50px;
+}
+.author
+{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.italic
+{
+  font-style: italic;
+}
+
+.bold
+{
+  font-weight: bold;
+}
+
+.stricken
+{
+  text-decoration: line-through;
+}
